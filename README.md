@@ -46,3 +46,7 @@ The objective of this project is to:
 ## Author
 
 Created as part of a Data Science Internship Project.
+
+## Project Visualization
+
+![COVID Analysis](covid_analysis.png)
