@@ -37,7 +37,7 @@ The objective of this project is to:
 
 ## Project Visualization
 
-covid_analysis..png
+![COVID Analysis](covid_analysis..png)
 
 ## Key Findings
 
