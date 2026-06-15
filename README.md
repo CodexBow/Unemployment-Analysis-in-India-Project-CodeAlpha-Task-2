@@ -35,6 +35,10 @@ The objective of this project is to:
 7. Rural vs Urban Analysis
 8. Insights and Conclusion
 
+## Project Visualization
+
+covid_analysis..png
+
 ## Key Findings
 
 * Most unemployment rates were concentrated between 3% and 15%.
